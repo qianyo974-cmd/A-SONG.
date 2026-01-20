@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* 防止滚动条出现 */
+  background-color: black; /* 与画布背景一致 */
+}
+
+canvas {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;  /* 宽度适配窗口 */
+  height: 100vh; /* 高度适配窗口 */
+}
