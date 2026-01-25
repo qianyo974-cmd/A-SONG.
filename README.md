@@ -56,14 +56,14 @@ It is recommended that the work be installed in a dim or controllable light spac
 If basic lighting is required, it should be soft and indirect ambient light, only used to ensure the basic visibility of the audience, without directly illuminating the projection area or the physical surface carrying the projection (such as wooden stakes or rocks). 
 Ideally, the work should be displayed away from bright windows or high-lit background walls to achieve the best projection effect.
 
-## 4. Text
+## Text
 "A Song", 2026 Yosheng Qian
 
 "A Song." is an audio-visual work based on sound. The piece uses built-in audio as input and controls the movement of notes and graphics in space through computational rules. The rhythm and intensity of the sound affect the changes in the picture, creating a continuous connection between the visual and the auditory. 
 
 The work can be presented through projection and combined with physical materials such as wooden stakes or rocks for display. The images are projected onto the surfaces of these objects, creating a connection between the digital images and the specific materials.
 
-## 5. Information
+## Information
 For more information about "A Song.", including project videos, images and presentation documents, please visit the following link: 
 
 Project video and presentation document:
@@ -74,6 +74,16 @@ https://github.com/qianyo974-cmd/A-SONG..git
 
 The code and documentation of this project are for learning and demonstration purposes only.
 
+## Images
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/7b73b5e5-7e4e-457b-b1ca-75632b3b3263" />
 
 
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/7abd082d-fc83-41ac-81e7-94ed832e971e" />
+
+
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/cd0196a0-b534-4e18-982d-74bfc5c9815f" />
+
+3D-render of the setup:
+
+![未命名作品 66](https://github.com/user-attachments/assets/ef6ddf34-eeee-48ff-9c2e-1be5a76a5086)
 
