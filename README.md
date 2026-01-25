@@ -1,7 +1,7 @@
 ## Introduction 
 "A Song." is a sound-driven audio-visual work based on p5.js. The work uses built-in audio as input and controls the movement and rhythm in the picture through changes in sound. When the sound starts playing, the notes, particles and forms in the picture will be activated accordingly, constantly moving, rotating or gathering in space. 
 The variation in volume alters the movement pattern, speed and distribution of the notes, presenting different rhythms and moods in the visuals. By pressing keys A or B, the audience can enter different scenes, each corresponding to a distinct relationship between sound and vision. 
-"A Song." can be run directly as a code project to present a complete audio-visual experience on the screen; it can also be displayed in combination with a simple physical arrangement. In the video version, wooden stakes and stones are placed around the screen to form a viewing scene, making the digital images seem to occur in a confined space. These physical elements do not participate in the interaction but serve as an environment, allowing the audience to focus more on the relationship between sound and image.
+"A Song." can be run directly as a code project to present a complete audio-visual experience on the screen; it can also be displayed in combination with a simple physical arrangement. In the video version, wooden stakes and stones are placed around the screen to form a viewing scene, making the digital images seem to occur in a confined space. These physical elements do not participate in the interaction but serve as an environment, allowing the audience to focus more on the relationship between sound and image. 
 
 ## 1. Display
 "A Song." is mainly presented in the form of an audio-visual installation with physical arrangements. The work uses built-in audio for playback, and the visuals unfold in accordance with the structure of the sound rather than being generated in real time from external inputs. 
@@ -48,3 +48,31 @@ Performance Notes:
 
 On devices with lower performance or older models, the work can still run, but when played in high resolution or projected on a larger screen, there may be a decrease in the smoothness of the picture.
 For the best display effect, it is recommended to use a computer with a dedicated graphics card or one that was released within the last five years.
+
+## 3. Lighting
+"A Song." has no specific requirements for a complex lighting system. The work is mainly presented through projection, so the exhibition space should maintain a relatively low ambient brightness to ensure that the notes, movement details, and rhythm changes in the projected images can be clearly seen. 
+It is recommended that the work be installed in a dim or controllable light space to avoid strong natural light or direct light sources from entering the display area. Excessive ambient light will weaken the contrast of the projection, making it difficult to distinguish the movement and changes of the notes and the visual layers. 
+
+If basic lighting is required, it should be soft and indirect ambient light, only used to ensure the basic visibility of the audience, without directly illuminating the projection area or the physical surface carrying the projection (such as wooden stakes or rocks). 
+Ideally, the work should be displayed away from bright windows or high-lit background walls to achieve the best projection effect.
+
+## 4. Text
+"A Song", 2026 Yosheng Qian
+
+"A Song." is an audio-visual work based on sound. The piece uses built-in audio as input and controls the movement of notes and graphics in space through computational rules. The rhythm and intensity of the sound affect the changes in the picture, creating a continuous connection between the visual and the auditory. 
+
+The work can be presented through projection and combined with physical materials such as wooden stakes or rocks for display. The images are projected onto the surfaces of these objects, creating a connection between the digital images and the specific materials.
+
+## 5. Information
+For more information about "A Song.", including project videos, images and presentation documents, please visit the following link: 
+
+Project video and presentation document:
+https://youtu.be/O7zwT9J4AEI
+Project source code and project description (GitHub):
+
+
+The code and documentation of this project are for learning and demonstration purposes only.
+
+
+
+
