@@ -68,8 +68,9 @@ For more information about "A Song.", including project videos, images and prese
 
 Project video and presentation document:
 https://youtu.be/O7zwT9J4AEI
-Project source code and project description (GitHub):
 
+Project source code and project description (GitHub):
+https://github.com/qianyo974-cmd/A-SONG..git
 
 The code and documentation of this project are for learning and demonstration purposes only.
 
